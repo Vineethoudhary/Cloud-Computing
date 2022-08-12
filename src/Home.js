@@ -60,7 +60,7 @@ const Home=()=>{
         </section>
 
         <footer className="text-center">
-           <p>Made with  <EmojiEmotionsRoundedIcon /> by Rakshit Pandey & Adarsh Kumar Singh</p>
+           <p>Made with  <EmojiEmotionsRoundedIcon /> by Vineet Choudhary </p>
            <p>Students of VIT University, Vellore</p>
         </footer>
 
