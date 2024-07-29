@@ -30,6 +30,6 @@ You will also see any lint errors in the console.
 ->The Node Modules folder is also required to be downloaded while creating the react app and few Libraries have been imported using NPM (Node Packet Manager) like bootstrap5, react-router, material-ui icons, etc...so please download it from npm to run this app.<br>
 
 
--> This Website is created by - RAKSHIT PANDEY & ADARSH KUMAR SINGH
+-> This Website is created by - RAKSHIT PANDEY, VINEET CHOUDHARY & ADARSH KUMAR SINGH
 
 <------------------------------------------------THANK YOU-------------------------------------------------->
